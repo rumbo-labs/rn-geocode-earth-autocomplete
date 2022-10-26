@@ -1,5 +1,26 @@
 # rn-geocode-earth-autocomplete
 React native autocomplete input for geocode.earth
+
+
+Get started with the project:
+
+  $ yarn
+
+Run the example app on iOS:
+
+  $ yarn example ios
+
+Run the example app on Android:
+
+  $ yarn example android
+
+Run the example app on Web:
+
+  $ yarn example web
+
+
+
+
 ## Installation
 
 ```sh
